@@ -11,4 +11,4 @@ client.on("messageCreate", async (message) => {
   if (!message.content.toLowerCase().startsWith(prefix)) return;
 });
 
-client.login(config.token);
+client.login(config.token); 
