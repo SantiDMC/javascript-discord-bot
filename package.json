@@ -2,7 +2,7 @@
   "name": "project-n3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "ascii-table": "^0.0.9",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.10",
+    "path": "^0.12.7"
   }
 }
