@@ -1,20 +1,18 @@
 {
   "name": "project-n3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord Bot made in JavaScript",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "santidmc",
   "license": "ISC",
   "dependencies": {
-    "ascii-table": "^0.0.9",
-    "colors": "^1.4.0",
+    "chalk": "^2.4.2",
     "discord.js": "^14.14.1",
-    "fs": "^0.0.1-security",
-    "glob": "^10.3.10",
-    "path": "^0.12.7"
+    "dotenv": "^16.4.2",
+    "mongoose": "^8.1.2"
   }
 }

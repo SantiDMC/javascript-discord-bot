@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+
+# DO NOT REMOVE THESE FOR SECURITY bla bla bla
+src/config.js
