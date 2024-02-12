@@ -1,5 +1,4 @@
 // Prefix:
-
 const { Message, PermissionFlagBits } = require('discord.js');
 const ExtendedClient = require('../../../class/ExtendedClient');
 
@@ -21,7 +20,6 @@ module.exports = {
 };
 
 // Slash:
-
 const { ChatInputCommandInteraction, SlashCommandBuilder } = require('discord.js');
 const ExtendedClient = require('../../../class/ExtendedClient');
 
@@ -39,7 +37,6 @@ module.exports = {
 };
 
 // User:
-
 const { UserContextMenuCommandInteraction, ContextMenuCommandBuilder } = require('discord.js');
 const ExtendedClient = require('../../../class/ExtendedClient');
 
@@ -57,7 +54,6 @@ module.exports = {
 };
 
 // Message:
-
 const { MessageContextMenuCommandInteraction, ContextMenuCommandBuilder } = require('discord.js');
 const ExtendedClient = require('../../../class/ExtendedClient');
 

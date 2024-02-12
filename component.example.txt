@@ -17,7 +17,6 @@ module.exports = {
 };
 
 // auto complete interaction
-
 const { } = require('discord.js');
 const ExtendedClient = require('../../class/ExtendedClient');
 
