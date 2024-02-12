@@ -1,5 +1,5 @@
 const chalk = require("chalk");
-
+ 
 /**
  * Logs a message with optional styling.
  *
